@@ -19,4 +19,4 @@ all three options in this project and identify factors that are associated with 
 
 
 ## Usage
-The datasets are in .csv format, in the same structure as they are made available from the NDNS repositories. The script is in two parts: "adjusting_data.R" containing the pre-processing to get the polished dataset, and "modelling_final.R" where the models are present, all done in R. "model_data.RData" contain the polished dataset (after all the pre-processing steps) ready to be used at the modelling stage.
+The datasets can be found in "ndns data" folder in .csv format, in the same structure as they are made available from the NDNS repositories for different years. The script is in two parts: "adjusting_data.R" containing the pre-processing to get the polished dataset, and "modelling_final.R" where the models are present, all done in R. "model_data.RData" contain the polished dataset (after all the pre-processing steps) ready to be used at the modelling stage.
